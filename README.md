@@ -5,10 +5,18 @@ Use a BBC Micro:bit to learn how to code and use electronics!
 #### Activities
 
 1. [Make the Buzzer go off!](https://raw.githubusercontent.com/camallen/unipart_bbc_microbit/master/activity_1.md)
-1. [Stretch goal - Track shelf available space and make a sound when none is left](https://raw.githubusercontent.com/camallen/unipart_bbc_microbit/master/activity_2.md)
+1. [Stretch goal - Track shelf space and make a sound when it's all gone](https://raw.githubusercontent.com/camallen/unipart_bbc_microbit/master/activity_2.md)
+
+#### Getting started Links
+Some links to help you get started with the microbit
++ Teachers quick start guide -  https://microbit0.blob.core.windows.net/pub/tovulwsd/Quick-Start-Guide-for-Teachers.pdf
++ https://www.microbit.co.uk/getting-started
++ How to create code in the blocks editor - https://www.microbit.co.uk/blocks/editor
++ Code online with Blocks editor - https://pxt.microbit.org/?lang=en
++ Your Micro:bit code online - https://www.microbit.co.uk/app/
 
 
-#### Further learning
+#### Further learning Links
 
 There are lots of resources on line for learning how to code and use the Micro:bit. Here are some links for projects you can do yourself.
 
