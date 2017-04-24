@@ -6,14 +6,31 @@ Clip one of the crocodile clips to one of the legs of the buzzer and the other e
 ![Connecting your buzzer](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/clips_microbit.png "Connecting your buzzer")
 
 #### Step 2:
-Under the "Music" section there's a block labeled "play tone". Put this into the "forever" block that's already in your program.
+Make the Micro:bit constantly do something. Under the "Basic" section there's a block labeled "forever". Click this to activate it in your code.
+
+![Do something forever](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/forever.png "Do something forever")
 
 #### Step 3:
-Notice this "Middle C"? Some blocks have parameters that you can change, or hook up to other things.
+Under the "Music" section there's a block labeled "play tone". Put this into the "forever" block that's already in your program.
 
-For instance, you could take many of the blocks from "Input" and hook them up:
+![Play a tone](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/middle_C.png "Play a tone")
 
-Notice how the pitch of the buzzer goes up when you shake your BBC Micro:bit?
+#### Step 3:
+Notice this "C"? Some blocks have parameters that you can change, or hook up to other things.
+
+Let's try and use a different input source. How about we try using the accelerometer?
+
+![Choose a block to wire up](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/choose_block_inputs.png "Choose a block to wire up")
+
+For instance, press "Input" menu and then click the "acceleration (mg)" block and drag it to replace the "C" block in "play tone".
+
+![Dynamic tones](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/play_tone.png "Dynamic tones")
+
+Notice how the pitch of the buzzer goes up when you shake your BBC Micro:bit a certain direction? We need to ignore negative acceleration values!
+
+Select the "Math" menu and select the "absolute of" block and drag it wrap the acceleration input block. For those wondering, this maths block will ignore negative values and turn them positive.
+
+![Dynamic tones](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/play_tone_abs.png "Dynamic tones")
 
 ####  Step 4:
 You can also use variables<sup>1</sup>.
