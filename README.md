@@ -2,31 +2,41 @@
 
 Use a BBC Micro:bit to learn how to code and use electronics!
 
-#### Activities
+#### Workshop Activities
 
-1. [Make the Buzzer go off!](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_1.md)
-1. [Stretch goal - Track shelf space and make a sound when it's all gone](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_2.md)
+These are your workshop activities, Number 1 is the easiest with number 2 being a stretch goal if you have time.
+
+1. [Make the Buzzer go off](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_1.md)
+
+1. [Track shelf space and make a sound when it is gone](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_2.md)
 
 #### Getting started Links
-Some links to help you get started with the microbit
-+ Teachers quick start guide -  https://microbit0.blob.core.windows.net/pub/tovulwsd/Quick-Start-Guide-for-Teachers.pdf
-+ https://www.microbit.co.uk/getting-started
-+ How to create code in the blocks editor - https://www.microbit.co.uk/blocks/editor
-+ Code online with Blocks editor - https://pxt.microbit.org/?lang=en
-+ Your Micro:bit code online - https://www.microbit.co.uk/app/
 
+Some links to help you get started with the microbit
+
++ [Get started videos](https://www.microbit.co.uk/getting-started)
++ [How to create code in the blocks editor](https://www.microbit.co.uk/blocks/editor)
++ [Blocks editor components](https://www.microbit.co.uk/blocks/contents)
++ [Code online with Blocks editor](https://pxt.microbit.org/?lang=en)
++ [Your Micro:bit code online](https://www.microbit.co.uk/app)
++ [More detailed quick start guide](https://microbit0.blob.core.windows.net/pub/tovulwsd/Quick-Start-Guide-for-Teachers.pdf)
 
 #### Further learning Links
 
 There are lots of resources on line for learning how to code and use the Micro:bit. Here are some links for projects you can do yourself.
 
 + https://codeclubprojects.org/en-GB/microbit/
+
 + http://www.101computing.net/category/bbc-microbit/
+
 + https://github.com/carlosperate/awesome-microbit
+
 + https://www.element14.com/community/community/stem-academy/microbit/blog/2016/05/26/10-bbc-microbit-projects-in-ten-days
+
 + http://microbit.org/en/2017-03-07-javascript-block-resources/
 
 + http://faraday.theiet.org/stem-activity-days/bbc-microbit/resources/index.cfm
+
 + http://www.microbitsandbobs.co.uk/projects.html
 
 Search other peoples code for microbit projects
