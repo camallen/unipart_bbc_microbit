@@ -17,7 +17,7 @@ Under the "Music" section there's a block labeled "play tone". Put this into the
 
 ![Play a tone](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/middle_C.png "Play a tone")
 
-#### Step 3:
+#### Step 4:
 Notice this "C"? Some blocks have parameters that you can change, or hook up to other things.
 
 Let's try and use a different input source. How about we try using the accelerometer?
@@ -28,13 +28,13 @@ For instance, press "Input" menu and then click the "acceleration (mg)" block an
 
 ![Dynamic tones](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/play_tone.png "Dynamic tones")
 
-Notice how the pitch of the buzzer goes up when you shake your BBC Micro:bit a certain direction? We need to ignore negative acceleration values!
+Notice how the pitch of the buzzer goes up when you shake your BBC Micro:bit a certain direction? This is what we call an edge case, we need to ignore negative acceleration values!
 
 Select the "Math" menu and select the "absolute of" block and drag it wrap the acceleration input block. For those wondering, this maths block will ignore negative values and turn them positive.
 
 ![Dynamic tones](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/play_tone_abs.png "Dynamic tones")
 
-####  Step 4:
+####  Step 5:
 You can also use variables. Variables are place holders for changing values. Use them in your code to refer to their latest value.
 
 *Pro tip: try to name them so they mean something when you read the code :)*
@@ -47,7 +47,7 @@ Inside this new block, add a "change item by 1" block. You can modify the change
 
 Now every time you press the A button, the pitch will go up. Also note that you can
 
-####  Step 5:
+####  Step 6:
 **Make the code run on the Micro:bit**
 Once we're happy with the code, We need to make it run on the Micro:bit.
 
