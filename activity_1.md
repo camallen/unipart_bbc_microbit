@@ -1,5 +1,7 @@
 ## Make the Buzzer go off!
 
+Let's write the code to make the buzzer go off. Once we've written it, we'll make it run on our Micro:bits.
+
 #### Step 1:
 Clip one of the crocodile clips to one of the legs of the buzzer and the other end of the clip to the pad marked "0" on the BBC Micro:bit. Use the other crocodile clip to connect the other leg to the Micro:bit pad marked "GND".
 
@@ -33,22 +35,22 @@ Select the "Math" menu and select the "absolute of" block and drag it wrap the a
 ![Dynamic tones](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/play_tone_abs.png "Dynamic tones")
 
 ####  Step 4:
-You can also use variables<sup>1</sup>.
-Drag the item variable into the tone pitch parameter. Now from the Input section, add an "on button A pressed" block into your program. This one doesn't attach into "Forever" but is it's own thing. Inside this new block, change the variable with a "change item by 50" block. You can also rename "item" to something more descriptive like "pitch".
+You can also use variables. Variables are place holders for changing values. Use them in your code to refer to their latest value.
 
-Now every time you press the A button, the pitch will go up.
-____
+*Pro tip: try to name them so they mean something when you read the code :)*
 
-<sup>**1**</sup> **Variables**: are place holders for changing values. Use them in your code to dynamically refer to their latest assigned value.
+Select "Variables" from the menu and drag the "Item" block to replace the "acceleration (mg)" block. Now from the Input section, add an "on button A pressed" block anywhere into your program. Note: This one doesn't attach into "Forever" but is it's own thing.
 
-Pro tip: try to name them so they mean something when you read the code :)
-``` ruby
-box_count = 0
-print "Box count is currently: " + box_count
-# outputs Box count is currently: 0
+Inside this new block, add a "change item by 1" block. You can modify the change amount value to 50 and also rename "item" to something more descriptive like "pitch".
 
-box_count = box_count + 10
+![Button pitch change](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/button_pitch_change.png "Button pitch change")
 
-print "Box count is currently: " + box_count
-# outputs Box count is currently: 10
-```
+Now every time you press the A button, the pitch will go up. Also note that you can
+
+####  Step 5:
+**Make the code run on the Micro:bit**
+Once we're happy with the code, We need to make it run on the Micro:bit.
+
+Press the "Compile" button to download a runnable '\*.hex' file. Then drag this to the BBC Micro:bit device location on your PC.
+
+**Ask for help** or see https://www.microbit.co.uk/device/usb for more detailed instructions on how to download and run code on the Micro:bit.
