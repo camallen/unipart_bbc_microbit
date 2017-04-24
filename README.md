@@ -4,8 +4,8 @@ Use a BBC Micro:bit to learn how to code and use electronics!
 
 #### Activities
 
-1. [Make the Buzzer go off!](https://raw.githubusercontent.com/camallen/unipart_bbc_microbit/master/activity_1.md)
-1. [Stretch goal - Track shelf space and make a sound when it's all gone](https://raw.githubusercontent.com/camallen/unipart_bbc_microbit/master/activity_2.md)
+1. [Make the Buzzer go off!](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_1.md)
+1. [Stretch goal - Track shelf space and make a sound when it's all gone](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_2.md)
 
 #### Getting started Links
 Some links to help you get started with the microbit
