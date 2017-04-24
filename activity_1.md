@@ -35,7 +35,7 @@ Select the "Math" menu and select the "absolute of" block and drag it wrap the a
 ![Dynamic tones](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/play_tone_abs.png "Dynamic tones")
 
 ####  Step 5:
-You can also use variables. Variables are place holders for changing values. Use them in your code to refer to their latest value.
+You can also use variables. Variables are place holders for changing values. Use them in your code to refer to their latest value (checkout [here](https://www.microbit.co.uk/blocks/book/variables) for more details)
 
 *Pro tip: try to name them so they mean something when you read the code :)*
 
