@@ -3,8 +3,7 @@
 #### Step 1:
 Clip one of the crocodile clips to one of the legs of the buzzer and the other end of the clip to the pad marked "0" on the BBC Micro:bit. Use the other crocodile clip to connect the other leg to the Micro:bit pad marked "GND".
 
-[[https://github.com/camallen/unipart_bbc_microbit/blob/master/images/clips_microbit.png|alt=connecting_your_buzzer]]
-
+![Connecting your buzzer](https://github.com/camallen/unipart_bbc_microbit/blob/master/images/clips_microbit.png "Connecting your buzzer")
 
 #### Step 2:
 Under the "Music" section there's a block labeled "play tone". Put this into the "forever" block that's already in your program.
