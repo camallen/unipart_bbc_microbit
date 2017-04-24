@@ -3,6 +3,7 @@
 Use a BBC Micro:bit to learn how to code and use electronics!
 
 #### Workshop Activities
+First we'll need to connect up our Micro:bit to the computer using the usb cable, it's easy do it just like a phone or a camera! Once your Mirco:bit is connected we can make code run on it, but first we need code!
 
 We'll be coding up our BBC Micro:bits using the Blocks editor today, visit https://www.microbit.co.uk/app and click create code, then select the "Block Editor".
 
