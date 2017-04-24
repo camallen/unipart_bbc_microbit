@@ -4,7 +4,9 @@ Use a BBC Micro:bit to learn how to code and use electronics!
 
 #### Workshop Activities
 
-These are your workshop activities, Number 1 is the easiest with number 2 being a stretch goal if you have time.
+We'll be coding up our BBC Micro:bits using the Blocks editor today, visit https://www.microbit.co.uk/app and click create code, then select the "Block Editor".
+
+We'll be working through these activities in the workshop. Number 1 is the easiest and will get you started with connecting and coding the Micro:bit. Number 2 is a stretch goal if you have time.
 
 1. [Make the Buzzer go off](https://github.com/camallen/unipart_bbc_microbit/blob/master/activity_1.md)
 
@@ -12,7 +14,7 @@ These are your workshop activities, Number 1 is the easiest with number 2 being 
 
 #### Getting started Links
 
-Some links to help you get started with the microbit
+Some links to help you get started with the Micro:bit
 
 + [Get started videos](https://www.microbit.co.uk/getting-started)
 + [How to create code in the blocks editor](https://www.microbit.co.uk/blocks/editor)
