@@ -16,7 +16,7 @@ We'll be working through these activities in the workshop. Number 1 is the easie
 #### Getting started Links
 
 Some links to help you get started with the Micro:bit
-
++ [Compiling code and running it on your Micro:bit](https://www.microbit.co.uk/device/usb)
 + [Get started videos](https://www.microbit.co.uk/getting-started)
 + [How to create code in the blocks editor](https://www.microbit.co.uk/blocks/editor)
 + [Blocks editor components](https://www.microbit.co.uk/blocks/contents)
